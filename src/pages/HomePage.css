@@ -1,0 +1,9 @@
+.HomePage {
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.HomePage::-webkit-scrollbar {
+  display: none;
+  background: transparent;
+}
